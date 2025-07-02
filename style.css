@@ -1,0 +1,86 @@
+.inbio
+{
+    size: 23px;
+}
+
+.pageI
+{
+    padding-top: 4vw;
+    padding-left: 5vw;
+    background-color: black;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    .name
+    {
+        color: red;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 29vw;
+    }
+    .first
+    {
+        color: white;
+        padding-top: 4vw;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 23vw;
+    }
+    .description
+    {
+        color: white;
+        width: 791px;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 23vw;
+        text-align-last: left;
+    }
+    .socials
+    {
+        color: white;
+        position: absolute;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 23vw;
+        padding-top: 14vw;
+    }
+    .skills
+    {
+        color: white;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-top: 14vw;
+        padding-left: 53vw
+        
+    }
+    .greating
+    {
+        color: white;
+        position: absolute;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 23vw;
+    }
+    .profession
+    {
+        color: white;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 23vw;
+    }
+}
